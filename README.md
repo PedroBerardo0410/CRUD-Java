@@ -15,7 +15,7 @@ This project was developed as part of a college assignment, with the goal of pra
 
 ## 🛠️ Technologies Used
 
-- 🧠 **Java** (version X.X)
+- 🧠 **Java** - programming language
 - 🖼️ **Java Swing** – for graphical interface
 - 🗃️ **PostgreSQL** – for database management
 - 🔌 **JDBC** – to handle database connections
