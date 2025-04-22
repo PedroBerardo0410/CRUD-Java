@@ -4,7 +4,7 @@
 This project was developed as part of a college assignment, with the goal of practicing **Object-Oriented Programming (OOP)**, implementing the **MVC design pattern**, and working with **relational databases**.
 ---
 
-## 🚀 Features
+## Features
 
 - Create, Read, Update and Delete operations (CRUD)
 - GUI developed with **Java Swing**
@@ -13,16 +13,16 @@ This project was developed as part of a college assignment, with the goal of pra
 - Encapsulation and solid OOP practices
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- 🧠 **Java** - programming language
-- 🖼️ **Java Swing** – for graphical interface
-- 🗃️ **PostgreSQL** – for database management
-- 🔌 **JDBC** – to handle database connections
-- 📐 **MVC Pattern** – to organize project structure
+- **Java** - programming language
+- **Java Swing** – for graphical interface
+- **PostgreSQL** – for database management
+- **JDBC** – to handle database connections
+- **MVC Pattern** – to organize project structure
 ---
 
-## 🧠 Key Concepts Practiced
+## Key Concepts Practiced
 
 - Object-Oriented Programming (OOP)
 - Encapsulation
